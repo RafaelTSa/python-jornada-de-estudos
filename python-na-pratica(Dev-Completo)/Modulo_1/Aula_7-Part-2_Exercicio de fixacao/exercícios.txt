@@ -5,3 +5,13 @@ idade. Atribua a elas o nome e a idade de alguém, e
 mostre essas informações na tela no seguinte formato:
 me chamo [nome] e tenho [idade] anos.
 
+
+Exercício 2
+
+Crie duas variáveis: nome e animal, contendo o nome e o
+animal de estimação de alguém. Em seguida, mostre essas
+informações no seguinte formato, usando as trÊs formas de
+exibir texto junto com variáveis:
+O(a) [nome], tem um [animal]
+
+
