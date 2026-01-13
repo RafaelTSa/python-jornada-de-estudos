@@ -12,6 +12,7 @@ cd ==> mudar de diretorio (pasta).
 ls ==> mostra os arquivos e diretorios da pasta.
 mkdir ==> criar uma nova pasta.
 ni ==> cria um novo arquivo (powershell)
+touch ==> cria um novo arquivo (bash - zsh)
 cat ==> mostra o conteúdo de um arquivo.
 
 """
