@@ -21,4 +21,4 @@ Crie uma constante chamada PAIS com o valor "Brasil",
 uma variável chamada nome com o nome de alguém, e
 outra chamada idade com a idade dessa pessoa. Exiba
 essas informações no seguinte formato:
-[nome] mora no país [PAIS] e tem [idade] anos 
+[nome] mora no país [PAIS] e tem [idade] anos
