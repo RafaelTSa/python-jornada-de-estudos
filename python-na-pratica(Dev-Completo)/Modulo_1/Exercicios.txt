@@ -1,4 +1,4 @@
-Exercícios 1
+Exercício 1
 Suponha que, no seu computador, em alguma pasta,
 há um arquivo chamado frase.py
 
@@ -17,5 +17,16 @@ cat ==> mostra o conteúdo de um arquivo.
 """
 
 
+Exercício 2
+Crie uma nova pasta (dentro da sua pasta atual) chamada
+aulas-python, entre nela e crie um arquivo chamado
+teste.py. Esse arquivo deve ser um código simples
+apresentando a frase "Um curso de python". Execute esse código.
 
 
+
+
+Exercício 3
+De dentro da pasta aulas-python, volte para a "pasta
+pai" dela, e nessa pasta pai, crie um arquivo de texto
+chamado estado.py
