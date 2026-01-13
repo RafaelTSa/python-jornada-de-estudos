@@ -1,0 +1,7 @@
+Exercício 1
+
+Crie duas variáveis, uma chamada nome e outra chamada
+idade. Atribua a elas o nome e a idade de alguém, e
+mostre essas informações na tela no seguinte formato:
+me chamo [nome] e tenho [idade] anos.
+
