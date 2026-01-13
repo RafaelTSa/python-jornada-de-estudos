@@ -6,3 +6,16 @@ Quais comandos você precisa utilizar para descobrir
 onde você está e como navegar dentro das pastas
 a fim de executar o codigo em frase.py?
 
+"""
+pwd ==> Mostrar aonde estamos.
+cd ==> mudar de diretorio (pasta).
+ls ==> mostra os arquivos e diretorios da pasta.
+mkdir ==> criar uma nova pasta.
+ni ==> cria um novo arquivo (powershell)
+cat ==> mostra o conteúdo de um arquivo.
+
+"""
+
+
+
+
