@@ -1,0 +1,8 @@
+Exercícios 1
+Suponha que, no seu computador, em alguma pasta,
+há um arquivo chamado frase.py
+
+Quais comandos você precisa utilizar para descobrir
+onde você está e como navegar dentro das pastas
+a fim de executar o codigo em frase.py?
+
