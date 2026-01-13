@@ -29,5 +29,8 @@ apresentando a frase "Um curso de python". Execute esse código.
 
 Exercício 3
 De dentro da pasta aulas-python, volte para a "pasta
-pai" dela, e nessa pasta pai, crie um arquivo de texto
+pai" dela, e nessa pasta pai, crie um arquivo python
 chamado estado.py
+
+Nesse arquivo estado.py, escreva um código python que
+exiba na tela o nome do estado de onde vovê é. Execute o código.
