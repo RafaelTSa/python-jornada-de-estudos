@@ -1,0 +1,11 @@
+exercício 1
+
+Crie 4 variáveis com os seguintes nomes:
+- nomes- idade
+- altura
+- uma variavel booleana par arepresentar se gosta de programar
+
+Preencha essas variáveis com informações
+de alguém, em seguida exiba o tipo de
+cada variável.
+
