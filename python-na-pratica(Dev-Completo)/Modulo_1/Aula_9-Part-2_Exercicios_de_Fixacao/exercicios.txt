@@ -1,0 +1,12 @@
+Exercício 1 - Operadores aritméticos
+
+Crie duas variáveis, com valores inteiros.
+
+Faça com essas variáveis todas as operações aritméticas
+mostradas na aula. Armazene os resultados de cada
+operação em variáveis separadas, e utilize fstrings
+para imprimir cada resultado no seguinte modelo:
+(exemplo para a soma)
+
+"Resultado da soma: 10"
+
