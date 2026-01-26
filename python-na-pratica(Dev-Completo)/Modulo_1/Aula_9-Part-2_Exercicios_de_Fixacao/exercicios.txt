@@ -36,3 +36,23 @@ cada comparação.
 
 
 ==============================================================
+
+
+Exercício 4 - Vou conseguir viajar?
+
+Pense na seguinte situação: ano que vem, eu quero viajar.
+Mas, eu só consigo viajar se eu estiver de férias do trabalho
+e tiver conseguido comprar as passagens.
+
+
+Não consegui as férias no trabalho, mas consegui
+comprar as passagens.
+
+
+Se eu fosse utilizar variáveis booleanas do python,
+e um operador lógico para montar um código para exibir
+se desse jeito eu vou ou não conseguir viajar, como
+esse código ficaria?
+
+
+==============================================================
