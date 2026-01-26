@@ -1,3 +1,5 @@
+==============================================================
+
 Exercício 1 - Operadores aritméticos
 
 Crie duas variáveis, com valores inteiros.
@@ -9,4 +11,17 @@ para imprimir cada resultado no seguinte modelo:
 (exemplo para a soma)
 
 "Resultado da soma: 10"
+
+==============================================================
+
+Exercício 2 - Trabalhando com números decimais
+
+Crie duas variáveis, uma contendo um valor com três
+casas decimais, e outra contendo um valor decimal
+com duas casas decimais.
+
+Multiplique essas duas variáveis, e apresente o
+resultado contendo duas casas decimais.
+
+==============================================================
 
