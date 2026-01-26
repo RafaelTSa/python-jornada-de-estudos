@@ -14,6 +14,7 @@ para imprimir cada resultado no seguinte modelo:
 
 ==============================================================
 
+
 Exercício 2 - Trabalhando com números decimais
 
 Crie duas variáveis, uma contendo um valor com três
@@ -23,5 +24,15 @@ com duas casas decimais.
 Multiplique essas duas variáveis, e apresente o
 resultado contendo duas casas decimais.
 
+
 ==============================================================
 
+
+Exercício 3 - Operadores relacionais
+
+Crie duas variáveis inteiras. Faça todas as operações
+relacionais apresentadas na aula, exibindo o resultado de
+cada comparação.
+
+
+==============================================================
