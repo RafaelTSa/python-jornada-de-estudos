@@ -56,3 +56,20 @@ esse código ficaria?
 
 
 ==============================================================
+
+
+Exercício 5 - Pode entrar no evento?
+
+Eu só posso participar de um evento na minha cidade se
+eu tiver um convite, ou então, se meu nome estiver na
+lista na entrada.
+
+Meu nome não está na lista, mas eu tenho um convite,
+
+Se eu fosse utilizar variáveis booleanas do python,
+e um operador lógico para montar um código para exibir
+se desse jeito eu vou ou não conseguir entar. como
+esse código ficaria?
+
+
+==============================================================
