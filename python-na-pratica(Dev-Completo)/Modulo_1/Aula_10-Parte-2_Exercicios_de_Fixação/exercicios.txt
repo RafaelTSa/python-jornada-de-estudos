@@ -27,3 +27,14 @@ casas decimais) e mostre a média delas.
 
 ============================================================
 
+Exercício 4
+
+Peça ao usuário o nome, idade e estado
+dele, e exiba uma frase completa no
+formato abaixo:
+
+EX: Fulano tem 21 anos e mora no
+estado Mato Grosso.
+
+
+============================================================
