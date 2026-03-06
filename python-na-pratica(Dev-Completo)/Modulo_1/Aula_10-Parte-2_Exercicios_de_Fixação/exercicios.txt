@@ -18,3 +18,12 @@ frase no formato abaixo.
 EX: O resultado é 20.
 
 ============================================================
+
+Exercicio 3
+
+Peça duas notas ao usuário (podem ter
+casas decimais) e mostre a média delas.
+
+
+============================================================
+
