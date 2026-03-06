@@ -10,3 +10,11 @@ EX: Olá, Fulano! Seja bem vindo
 ============================================================
 
 Exercício 2:
+
+Peça dois núemros ao usuário,
+some-os, e apresente o resultado em uma
+frase no formato abaixo.
+
+EX: O resultado é 20.
+
+============================================================
