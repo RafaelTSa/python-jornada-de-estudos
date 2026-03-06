@@ -1,0 +1,12 @@
+============================================================
+
+Exercício 1:
+
+Peça ao usuário para digitar o nome dele
+e exiba uma saudação personalizada.
+
+EX: Olá, Fulano! Seja bem vindo
+
+============================================================
+
+Exercício 2:
