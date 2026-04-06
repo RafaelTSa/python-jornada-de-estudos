@@ -1,6 +1,25 @@
+==================================================================
+
 if Condição:
     comando_1
     comando_2
 
     Condição -> qualquer operação que,
-    utilizando operadores lógicos
+    utilizando operadores lógicos e/ou
+    relacionais, resulte em verdaddeiro
+    (True) ou falso (False)
+
+===================================================================
+
+if CONDICAO:
+    comando_1
+    comando_2
+    
+else:
+    comando_se_não
+
+comando_se_não sempre será executado
+se a CONDICAO não for verdadeira
+
+
+===================================================================
