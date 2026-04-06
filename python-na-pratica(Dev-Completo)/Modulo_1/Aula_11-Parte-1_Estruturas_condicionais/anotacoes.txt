@@ -37,3 +37,18 @@ else:
 
 
 ===================================================================
+
+
+Quando usar cada um?
+
+if (Se)
+É sempre o ponto de partida. Use quando você tem uma condição principal que precisa ser testada.
+
+
+elif (Senão, se)
+É o intermediário. Use quando a primeira condição foi falsa, mas você ainda tem outra regra específica para testar antes de desistir. Você pode ter quantos elif precisar.
+
+
+else (Senão / Caso contrário)
+É a "rede de segurança". Ele não aceita nenhuma condição (não se escreve nada na frente dele). Ele serve para capturar tudo o que sobrou.
+
