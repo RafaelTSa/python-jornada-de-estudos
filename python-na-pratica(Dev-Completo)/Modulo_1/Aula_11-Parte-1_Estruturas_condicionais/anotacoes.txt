@@ -1,4 +1,5 @@
 ==================================================================
+- Esrutura condicional " if "
 
 if Condição:
     comando_1
@@ -10,6 +11,7 @@ if Condição:
     (True) ou falso (False)
 
 ===================================================================
+- Esrutura condicional " else "
 
 if CONDICAO:
     comando_1
@@ -19,6 +21,19 @@ else:
 
 comando_se_não sempre será executado
 se a CONDICAO não for verdadeira
+
+
+===================================================================
+- Esrutura condicional " elif "
+
+if CONDICAO_1:
+    comando_1
+    comando_2
+elif CONDICAO_2:
+    comando_3
+    comando_4
+else:
+    comando_se_não
 
 
 ===================================================================
