@@ -1,0 +1,6 @@
+if Condição:
+    comando_1
+    comando_2
+
+    Condição -> qualquer operação que,
+    utilizando operadores lógicos
