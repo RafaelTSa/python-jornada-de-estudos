@@ -14,7 +14,6 @@ if Condição:
 if CONDICAO:
     comando_1
     comando_2
-    
 else:
     comando_se_não
 
